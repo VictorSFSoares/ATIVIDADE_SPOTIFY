@@ -1,0 +1,97 @@
+header {
+
+    background-color: rgb(24, 23, 23);
+    
+    color: rgb(255, 255, 255);
+
+}
+
+body {
+
+    background-color: rgb(49, 49, 49);
+
+}
+
+button {
+
+    background-color: rgb(255, 255, 255);
+    
+    color: black;
+    
+    border-radius: 20px;
+
+    width: 150px;
+
+    height: 45px;
+
+    margin: 5px;
+
+    padding: 0px;
+
+    font-size: x-large;
+
+}
+
+#buttonEsquerdo {
+    
+    background-color: rgb(43, 41, 41);
+
+    border-radius: 5px;
+
+    color: rgb(255, 255, 255);
+
+    width: 40px;
+
+    height: 40px;
+
+    font-size: x-large;
+
+    margin: 5px;
+
+    padding: 0px;
+
+}
+
+#buttonDireito {
+
+    background-color: rgb(43, 41, 41);
+
+    border-radius: 5px;
+
+    color: rgb(255, 255, 255);
+
+    width: 40px;
+
+    height: 40px;
+
+    font-size: x-large;
+
+    margin: 5px;
+
+    padding: 0px;
+
+}
+
+p {
+
+    font-size: 25px;
+
+    margin: 12px;
+
+}
+
+nav {
+
+    background-color: black;
+
+}
+
+#buttonInicio {
+
+    background-color: black;
+
+    color: rgb(255, 255, 255);
+
+    
+  
+}
