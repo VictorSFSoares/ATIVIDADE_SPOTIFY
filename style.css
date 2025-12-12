@@ -78,11 +78,29 @@ p {
 
     margin: 12px;
 
+    color: rgb(255, 255, 255);
+
+}
+
+#pCookies {
+
+    font-size: 25px;
+
+    margin: 12px;
+
+    color:rgb(254, 255, 255);
+
+    margin-top: 350px;
+
 }
 
 nav {
 
     background-color: black;
+
+    text-align: justify;
+
+    height: 750px;
 
 }
 
@@ -92,6 +110,78 @@ nav {
 
     color: rgb(255, 255, 255);
 
-    
-  
+    width: 150px;
+
+    border: 0px
+
+}
+
+#buttonBusca {
+
+    background-color: black;
+
+    color: rgb(255, 255, 255);
+
+    width: 150px;
+
+    border: 0px
+
+}
+
+#buttonBiblioteca {
+
+    background-color: black;
+
+    color: rgb(255, 255, 255);
+
+    width: 200px;
+
+    border: 0px;
+
+}
+
+img {
+
+    width: 50px
+
+}
+
+#buttonPlaylist {
+
+    background-color: black;
+
+    color: rgb(255, 255, 255);
+
+    width: 200px;
+
+    border: 0px;
+
+}
+
+#buttonCurtidas {
+
+    background-color: black;
+
+    color: rgb(255, 255, 255);
+
+    width: 200px;
+
+    border: 0px;
+
+}
+
+#buttonFooter {
+
+    border: 0px;
+
+    color: rgb(0, 162, 255);
+
+}
+
+footer {
+
+    background: linear-gradient(to right, purple, #1E90FF);
+
+    text-align: left;
+
 }
